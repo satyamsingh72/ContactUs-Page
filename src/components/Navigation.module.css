@@ -1,25 +1,24 @@
 .container {
-    margin-top: 15px;
-    background-color: bisque;
-    border-radius: 10px;
+  margin-top: 15px;
+  background-color: bisque;
+  border-radius: 10px;
 }
 .nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 10vh;
-    padding: 10px;
-    box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  padding: 10px;
+  box-sizing: border-box;
 }
 .nav ul {
-    list-style-type: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }
 .nav img {
-    width: 50px;
-    border-radius: 20px;
+  width: 50px;
+  border-radius: 20px;
 }

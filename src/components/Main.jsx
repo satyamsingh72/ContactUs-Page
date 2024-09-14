@@ -13,7 +13,6 @@ const Main = () => {
     setMyName(event.target[0].value);
     setMyEmail(event.target[1].value);
     setMyText(event.target[2].value);
-    console.log(event);
     event.target[0].value="";
     event.target[1].value="";
     event.target[2].value="";
